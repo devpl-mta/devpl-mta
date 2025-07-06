@@ -8,6 +8,6 @@ I've been studying for a month lua!
 Contact me
 
 
-Email: kontakt.devpl@gmail.com
+Email: kontakt.devik@gmail.com
 
 Discord: .devpl.
